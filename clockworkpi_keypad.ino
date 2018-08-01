@@ -46,10 +46,10 @@
 #define KEYPAD_LEFT   KEY_LEFT_ARROW
 #define KEYPAD_DOWN   KEY_DOWN_ARROW
 #define KEYPAD_RIGHT  KEY_RIGHT_ARROW
-#define KEYPAD_Y      KEY_I
-#define KEYPAD_X      KEY_U
-#define KEYPAD_A      KEY_J
-#define KEYPAD_B      KEY_K
+#define KEYPAD_Y      KEY_K
+#define KEYPAD_X      KEY_J
+#define KEYPAD_A      KEY_U
+#define KEYPAD_B      KEY_I
 #define KEYPAD_MENU   KEY_ESCAPE
 #define KEYPAD_SELECT KEY_SPACE
 #define KEYPAD_START  KEY_ENTER
